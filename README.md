@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eduardo Vazquez</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on **a flutter app w/ couple student peers. The concept of the app is to compete against other apps on market like instaWork.**
+- 🔭 I’m currently working on learning full-stack developmemt at Year Up & Reskill Americans.
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 📝 I regularly write articles on [medium.com](medium.com)
 
